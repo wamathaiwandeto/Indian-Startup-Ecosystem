@@ -1,2 +1,3 @@
 # LP1
-A repository for the Azubi Africa Data Analyst LP-1 project
+A repository for the Azubi Africa Data Analyst India Startup Ecosystem project
+
