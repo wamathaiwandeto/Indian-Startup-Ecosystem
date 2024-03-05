@@ -9,7 +9,7 @@ Project Goals:
 Data Preparation: Ensuring a clean dataset for analysis by handling missing values and standardizing data types.  
 EDA Insights: Gaining valuable insights through exploratory data analysis, visualizing trends and funding distributions.
 Effective Communication: Creating clear visualizations and reports to communicate findings to stakeholders.
-Recommendations: Providing actionable strategies for startups, investors, and policymakers based on identified trends.
+Recommendations: Providing actionable strategies for startups, investors, and policymakers based on identified trends.  
 Hypothesis Testing:  
 Null Hypothesis (H0): Funding is not influenced by the company's industry.
 Alternate Hypothesis (H1): Funding is influenced by the company's industry.  
