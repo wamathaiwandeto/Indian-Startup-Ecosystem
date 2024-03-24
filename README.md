@@ -47,7 +47,7 @@ All four datasets for this were imported from excel. i.e
 - df_2020 = pd.read_excel("funding20.xlsx")  
 - df_2021 = pd.read_excel("funding21.xlsx")  
 
-To get this datasets omline: Please [kaggle link](https://www.kaggle.com/datasets/omkargowda/indian-startups-funding-data?resource=download)
+To get this datasets online: Please [kaggle link](https://www.kaggle.com/datasets/omkargowda/indian-startups-funding-data?resource=download)
  
 ## Contributing
 Welcome to the Indian Startup Funding Ecosystem project! I appreciate your interest in contributing to the project and helping me improve this analysis and insights.
